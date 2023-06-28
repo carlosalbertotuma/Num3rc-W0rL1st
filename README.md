@@ -1,4 +1,5 @@
 # Num3rc-W0rL1st
+![image](https://github.com/carlosalbertotuma/Num3rc-W0rL1st/assets/13341724/eca68ba4-4be9-44f7-99aa-d7aa654ea978)
 
 Num3r1c-W0rdL1st é uma tool para pentest e ethical hacking que gera wordlist numericas, onde você precisa passar o primeiro e o ultimo numero que você deseta na wordlist assim como a quantidade de caracteres.
 
